@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="Symbols">
+        <normal>fonts/seguisym.ttf</normal>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+    </fontFamily>
+    <fontFamily name="Arial">
+        <normal>fonts/arial.ttf</normal>
+        <bold>fonts/arialbd.ttf</bold>
+        <italic>fonts/ariali.ttf</italic>
+        <boldItalic>fonts/arialbi.ttf</boldItalic>
+        <pdfEncoding>Cp1251</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+    </fontFamily>
+    <fontFamily name="CourierNew">
+        <normal>fonts/cour.ttf</normal>
+        <bold>fonts/courbd.ttf</bold>
+        <italic>fonts/couri.ttf</italic>
+        <boldItalic>fonts/courbi.ttf</boldItalic>
+        <pdfEncoding>Cp1251</pdfEncoding>
+<!--
+        <pdfEmbedded>true</pdfEmbedded>
+-->
+    </fontFamily>
+    <fontFamily name="Calibri">
+        <normal>fonts/calibri.ttf</normal>
+        <bold>fonts/calibrib.ttf</bold>
+        <italic>fonts/calibrii.ttf</italic>
+        <boldItalic>fonts/calibriz.ttf</boldItalic>
+        <pdfEncoding>Cp1251</pdfEncoding>
+<!--
+        <pdfEmbedded>true</pdfEmbedded>
+-->
+    </fontFamily>
+    <fontFamily name="Times New Roman">
+        <normal>fonts/times-new-roman.ttf</normal>
+        <bold>fonts/times-new-roman-b.ttf</bold>
+        <italic>fonts/times-new-roman-i.ttf</italic>
+        <boldItalic>fonts/times-new-roman-bi.ttf</boldItalic>
+        <pdfEncoding>Cp1251</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+    </fontFamily>
+
+    <fontFamily name="Droid Sans">
+        <normal>fonts/droid-sans.ttf</normal>
+        <bold>fonts/droid-sans.ttf</bold>
+        <italic>fonts/droid-sans.ttf</italic>
+        <boldItalic>fonts/droid-sans.ttf</boldItalic>
+        <pdfEncoding>Cp1251</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+    </fontFamily>
+
+    <fontFamily name="Century Gothic">
+        <normal>fonts/century-gothic.ttf</normal>
+        <bold>fonts/century-gothic-b.ttf</bold>
+        <italic>fonts/century-gothic.ttf</italic>
+        <boldItalic>fonts/century-gothic.ttf</boldItalic>
+        <pdfEncoding>Cp1251</pdfEncoding>
+        <!--<pdfEmbedded>true</pdfEmbedded>-->
+    </fontFamily>
+    <fontFamily name="DejaVu Sans">
+        <normal>fonts/DejaVuSans.ttf</normal>
+        <bold>fonts/DejaVuSans-Bold.ttf</bold>
+        <italic>fonts/DejaVuSans-Oblique.ttf</italic>
+        <boldItalic>fonts/DejaVuSans-BoldOblique.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.xhtml">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+        <!--
+        <locales>
+            <locale>en_US</locale>
+            <locale>de_DE</locale>
+        </locales>
+        -->
+    </fontFamily>
+
+<!--    <fontFamily name="DejaVu Serif">-->
+<!--        <normal>net/sf/jasperreports/fonts/dejavu/DejaVuSerif.ttf</normal>-->
+<!--        <bold>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Bold.ttf</bold>-->
+<!--        <italic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Italic.ttf</italic>-->
+<!--        <boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-BoldItalic.ttf</boldItalic>-->
+<!--        <pdfEncoding>Identity-H</pdfEncoding>-->
+<!--        <pdfEmbedded>true</pdfEmbedded>-->
+<!--        <exportFonts>-->
+<!--            <export key="net.sf.jasperreports.html">'DejaVu Serif', 'Times New Roman', Times, serif</export>-->
+<!--            <export key="net.sf.jasperreports.xhtml">'DejaVu Serif', 'Times New Roman', Times, serif</export>-->
+<!--        </exportFonts>-->
+<!--    </fontFamily>-->
+
+<!--    <fontFamily name="DejaVu Sans Mono">-->
+<!--        <normal>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono.ttf</normal>-->
+<!--        <bold>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono-Bold.ttf</bold>-->
+<!--        <italic>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono-Oblique.ttf</italic>-->
+<!--        <boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono-BoldOblique.ttf</boldItalic>-->
+<!--        <pdfEncoding>Identity-H</pdfEncoding>-->
+<!--        <pdfEmbedded>true</pdfEmbedded>-->
+<!--        <exportFonts>-->
+<!--            <export key="net.sf.jasperreports.html">'DejaVu Sans Mono', 'Courier New', Courier, monospace</export>-->
+<!--            <export key="net.sf.jasperreports.xhtml">'DejaVu Sans Mono', 'Courier New', Courier, monospace</export>-->
+<!--        </exportFonts>-->
+<!--    </fontFamily>-->
+
+    <!--
+        Mapping Java logical fonts, for the sake of HTML export only.
+    -->
+
+<!--    <fontFamily name="SansSerif">-->
+<!--        <normal>net/sf/jasperreports/fonts/dejavu/DejaVuSerif.ttf</normal>-->
+<!--        <bold>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Bold.ttf</bold>-->
+<!--        <italic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Italic.ttf</italic>-->
+<!--        <boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-BoldItalic.ttf</boldItalic>-->
+<!--        <pdfEncoding>Identity-H</pdfEncoding>-->
+<!--        <pdfEmbedded>true</pdfEmbedded>-->
+<!--        <exportFonts>-->
+<!--            <export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>-->
+<!--            <export key="net.sf.jasperreports.xhtml">'DejaVu Sans', Arial, Helvetica, sans-serif</export>-->
+<!--        </exportFonts>-->
+<!--    </fontFamily>-->
+<!--    <fontFamily name="Serif">-->
+<!--        <normal>net/sf/jasperreports/fonts/dejavu/DejaVuSerif.ttf</normal>-->
+<!--        <bold>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Bold.ttf</bold>-->
+<!--        <italic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Italic.ttf</italic>-->
+<!--        <boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-BoldItalic.ttf</boldItalic>-->
+<!--        <pdfEncoding>Identity-H</pdfEncoding>-->
+<!--        <pdfEmbedded>true</pdfEmbedded>-->
+<!--        <exportFonts>-->
+<!--            <export key="net.sf.jasperreports.html">'DejaVu Serif', 'Times New Roman', Times, serif</export>-->
+<!--            <export key="net.sf.jasperreports.xhtml">'DejaVu Serif', 'Times New Roman', Times, serif</export>-->
+<!--        </exportFonts>-->
+<!--    </fontFamily>-->
+<!--    <fontFamily name="Monospaced">-->
+<!--        <normal>net/sf/jasperreports/fonts/dejavu/DejaVuSerif.ttf</normal>-->
+<!--        <bold>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Bold.ttf</bold>-->
+<!--        <italic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Italic.ttf</italic>-->
+<!--        <boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-BoldItalic.ttf</boldItalic>-->
+<!--        <pdfEncoding>Identity-H</pdfEncoding>-->
+<!--        <pdfEmbedded>true</pdfEmbedded>-->
+<!--        <exportFonts>-->
+<!--            <export key="net.sf.jasperreports.html">'DejaVu Sans Mono', 'Courier New', Courier, monospace</export>-->
+<!--            <export key="net.sf.jasperreports.xhtml">'DejaVu Sans Mono', 'Courier New', Courier, monospace</export>-->
+<!--        </exportFonts>-->
+<!--    </fontFamily>-->
+</fontFamilies>
